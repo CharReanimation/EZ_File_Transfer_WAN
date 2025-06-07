@@ -31,12 +31,12 @@ With this project, you can transfer your FILES between your Computer(Server) and
 1: Once you have cloned this project, just make sure you go to the **Terminal** and run "node ./Server/server.js".  
 2: And it may shows something like: "Access URL: <http://192.X.X.X:3000>" (**Or check your console with *ipconfig***).  
 3: Use your *Phone & PC Browser* to open the URL, and you will see a page.  
-4: Then you can play with FILE tranfer between your Phone and PC.
+4: Then you can play with FILE tranfer between your Phone and PC.  
 5: **Kill The Terminal** then, you can stop the server.
 
 ## HOW TO CLEAN UP
 
-0: You will find out a **uploads** folder in your project directory, and all the files you uploaded will be stored in that folder.
+0: You will find out a **uploads** folder in your project directory, and all the files you uploaded will be stored in that folder.  
 1: Just **Delete** the folder or whatever choose file you wish to delete and you are good to go.
 
 ## FUTURE DEVELOPMENT
@@ -48,5 +48,5 @@ With this project, you can transfer your FILES between your Computer(Server) and
 ## Additional Information
 
 0: This project is still in development.  
-1: Currently is just a simple file transfer tool (**Very Dummy But Actually Works**).
+1: Currently is just a simple file transfer tool (**Very Dummy But Actually Works**).  
 2: Don't expect this project to be perfect, I build this for myself and my friends. Why? Because I don't know how to transfer files between my Phone and PC (**I am seriously, I don't really know how......**).
