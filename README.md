@@ -27,8 +27,8 @@ With this project, you can transfer your FILES between your Computer(Server) and
 
 ## HOW TO USE
 
-0: Make sure you are in this directory: "ReactJS_EZ_File_Transfer\EZFileTransfer".  
-1: Once you have cloned this project, just make sure you go to the **Terminal** and run "node ./Server/server.js".  
+0: Make sure you are in this directory: "**ReactJS_EZ_File_Transfer\EZFileTransfer**".  
+1: Once you have cloned this project, just make sure you go to the **Terminal** and run "**node ./Server/server.js**".  
 2: And it may show something like: "Access URL: <http://192.X.X.X:3000>" (**Or check your console with *ipconfig***).  
 3: Use your *Phone & PC Browser* to open the URL, and you will see a page.  
 4: Then you can play with FILE transfer between your Phone and PC.  
