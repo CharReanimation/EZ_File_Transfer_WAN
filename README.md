@@ -2,14 +2,14 @@
 
 ## Intro
 
-This is a easy FILES transfer Web Application based on Node.  
+This is an easy **File Transfer Web Application** based on *Node*.  
 You can transfer FILES between your Computer(Server) and your Phone(Client).  
 Very easy, so I think that's it for talking about this project intro.  
 
 ## Problem Solved
 
 I know, there are a lot of ways to transfer files between devices in the same Network, but I think I'd better just create one for myself.  
-Yeah, in order to find a solution, building one is even faster......  
+Yeah, to find a solution, building one is even faster......  
 With this project, you can transfer your FILES between your Computer(Server) and your Phone(Client) in the same Network.
 
 ## Build
@@ -29,17 +29,17 @@ With this project, you can transfer your FILES between your Computer(Server) and
 
 0: Make sure you are in this directory: "ReactJS_EZ_File_Transfer\EZFileTransfer".  
 1: Once you have cloned this project, just make sure you go to the **Terminal** and run "node ./Server/server.js".  
-2: And it may shows something like: "Access URL: <http://192.X.X.X:3000>" (**Or check your console with *ipconfig***).  
+2: And it may show something like: "Access URL: <http://192.X.X.X:3000>" (**Or check your console with *ipconfig***).  
 3: Use your *Phone & PC Browser* to open the URL, and you will see a page.  
-4: Then you can play with FILE tranfer between your Phone and PC.  
-5: **Kill The Terminal** then, you can stop the server.
+4: Then you can play with FILE transfer between your Phone and PC.  
+5: **Kill The Terminal** Then, you can stop the server.
 
 ## HOW TO CLEAN UP
 
 0: You will find out a **uploads** folder in your project directory, and all the files you uploaded will be stored in that folder.  
-1: Just **Delete** the folder or whatever choose file you wish to delete and you are good to go.
+1: Just **Delete** the folder or whatever file you wish to delete, and you are good to go.
 
-## FUTURE DEVELOPMENT
+## Future Development
 
 0: I am planning to add more features to this project.  
 1: Better UI.  
@@ -49,4 +49,4 @@ With this project, you can transfer your FILES between your Computer(Server) and
 
 0: This project is still in development.  
 1: Currently is just a simple file transfer tool (**Very Dummy But Actually Works**).  
-2: Don't expect this project to be perfect, I build this for myself and my friends. Why? Because I don't know how to transfer files between my Phone and PC (**I am seriously, I don't really know how......**).
+2: Don't expect this project to be perfect. I built this for myself and my friends. Why? Because I don't know how to transfer files between my Phone and PC (**I am seriously, I don't really know how......**).
