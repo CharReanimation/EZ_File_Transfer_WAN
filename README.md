@@ -16,7 +16,7 @@ With this project, you can transfer your FILES between your Computer(Server) and
 
 0: Obviously, you need to have NodeJS installed on your computer.  
 1: Clone this project to your computer.  
-2: Go to the **Terminal** and run "npm install" to install all the dependencies.  
+2: Go to the **Terminal** and run "**npm install**" to install all the dependencies.  
     npm init -y  
     npm install express multer
 
