@@ -49,4 +49,5 @@ With this project, you can transfer your FILES between your Computer(Server) and
 
 0: This project is still in development.  
 1: Currently is just a simple file transfer tool (**Very Dummy But Actually Works**).  
-2: Don't expect this project to be perfect. I built this for myself and my friends. Why? Because I don't know how to transfer files between my Phone and PC (**I am seriously, I don't really know how......**).
+2: Don't expect this project to be perfect. I built this for myself and my friends. Why? Because I don't know how to transfer files between my Phone and PC (**I am serious, I don't really know how......**).
+3: I know, this is too dummy, thus I will upgrade this thing to a better version.
