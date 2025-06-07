@@ -3,7 +3,7 @@
 ## Intro
 
 This is an easy **File Transfer Web Application** based on *Node*.  
-You can transfer FILES between your Computer(Server) and your Phone(Client).  
+You can transfer FILES between your *Computer(Server)* and your *Phone(Client)*; or even other devices, probably?  
 Very easy, so I think that's it for talking about this project intro.  
 
 ## Problem Solved
