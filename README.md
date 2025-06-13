@@ -14,40 +14,40 @@ With this project, you can transfer your FILES between your Computer(Server) and
 
 ## Build
 
-0: Obviously, you need to have NodeJS installed on your computer.  
-1: Clone this project to your computer.  
-2: Go to the **Terminal** and run "**npm install**" to install all the dependencies.  
+1: Obviously, you need to have NodeJS installed on your computer.  
+2: Clone this project to your computer.  
+3: Go to the **Terminal** and run "**npm install**" to install all the dependencies.  
     npm init -y  
     npm install express multer
 
 ## Initial Setting
 
-0: Yeah, your *Phone* and *PC* should be in the exact **Same Network (WIFI or LAN)**.  
-1: Your Phone should be able to access the Server's IP address (**SEE HOW TO USE**).
+1: Yeah, your *Phone* and *PC* should be in the exact **Same Network (WIFI or LAN)**.  
+2: Your Phone should be able to access the Server's IP address (**SEE HOW TO USE**).
 
 ## HOW TO USE
 
-0: Make sure you are in this directory: "**ReactJS_EZ_File_Transfer\EZFileTransfer**".  
-1: Once you have cloned this project, just make sure you go to the **Terminal** and run "**node ./Server/server.js**".  
-2: And it may show something like: "Access URL: <http://192.X.X.X:3000>" (**Or check your console with *ipconfig***).  
-3: Use your *Phone & PC Browser* to open the URL, and you will see a page.  
-4: Then you can play with FILE transfer between your Phone and PC.  
-5: **Kill The Terminal** Then, you can stop the server.
+1: Make sure you are in this directory: "**ReactJS_EZ_File_Transfer\EZFileTransfer**".  
+2: Once you have cloned this project, just make sure you go to the **Terminal** and run "**node ./Server/server.js**".  
+3: And it may show something like: "Access URL: <http://192.X.X.X:3000>" (**Or check your console with *ipconfig***).  
+4: Use your *Phone & PC Browser* to open the URL, and you will see a page.  
+5: Then you can play with FILE transfer between your Phone and PC.  
+6: **Kill The Terminal** Then, you can stop the server.
 
 ## HOW TO CLEAN UP
 
-0: You will find out a **uploads** folder in your project directory, and all the files you uploaded will be stored in that folder.  
-1: Just **Delete** the folder or whatever file you wish to delete, and you are good to go.
+1: You will find out a **uploads** folder in your project directory, and all the files you uploaded will be stored in that folder.  
+2: Just **Delete** the folder or whatever file you wish to delete, and you are good to go.
 
 ## Future Development
 
-0: I am planning to add more features to this project.  
-1: Better UI.  
-2: Additional Features.  
+1: I am planning to add more features to this project.  
+2: Better UI.  
+3: Additional Features.  
 
 ## Additional Information
 
-0: This project is still in development.  
-1: Currently is just a simple file transfer tool (**Very Dummy But Actually Works**).  
-2: Don't expect this project to be perfect. I built this for myself and my friends. Why? Because I don't know how to transfer files between my Phone and PC (**I am serious, I don't really know how......**).  
-3: I know, this is too dummy, thus I will upgrade this thing to a better version.
+1: This project is still in development.  
+2: Currently is just a simple file transfer tool (**Very Dummy But Actually Works**).  
+3: Don't expect this project to be perfect. I built this for myself and my friends. Why? Because I don't know how to transfer files between my Phone and PC (**I am serious, I don't really know how......**).  
+4: I know, this is too dummy, thus I will upgrade this thing to a better version.
